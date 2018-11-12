@@ -27,7 +27,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Raul Tkcheriuk, @RaulTkcheriuk: PLC
 * Nerea Iriepa, @nereairiepa: semáforo con servos
 * Luis del Valle, @programarfacilc: MKR1010 + Blynk
-* Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [mi cuenta github](https://github.com/Egokitek?tab=repositories) 
+* Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [Egokitek](https://github.com/Egokitek?tab=repositories) 
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
 
