@@ -3,9 +3,7 @@
 
 Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
-![alt text][logo]
-
-[logo]: https://github.com/dcuartielles/semaforos/blob/master/img/semaforo_gustavo.jpg?v=4&s=400 "PCB de semáforo for Gustavo Reynaga"
+![](https://github.com/dcuartielles/semaforos/blob/master/img/semaforo_gustavo.jpg?v=4&s=400) "PCB de semáforo for Gustavo Reynaga"
 
 ## Lista de Ejemplos
 
