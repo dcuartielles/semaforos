@@ -32,7 +32,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
 
-![los payasos de la tele](https://img.youtube.com/vi/OY8ffv_Urgk/0.jpg)](https://www.youtube.com/watch?v=OY8ffv_Urgk)
+[![los payasos de la tele](https://img.youtube.com/vi/OY8ffv_Urgk/0.jpg)](https://www.youtube.com/watch?v=OY8ffv_Urgk)
 
 ## Como contribuir
 
