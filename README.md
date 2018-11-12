@@ -18,6 +18,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Luis Miranda, @LuisMirandaAceb: 555s y componentes discretos
 * María L, @tecnoloxia: semáforo mecánico
 * David Estévez, @DEFrobotics: RPi + WiringPi
+* David Estévez, @DEFrobotics: Semáforo con robot industrial (por los loles)
 * Nuria y Jorfru, @nuria_pp: DGT
 * Gustavo Reynaga, @gsreynaga: PCB personalizada
 * Iraisy Figueroa, @Iraisy: circuito textil con 555 
@@ -27,9 +28,12 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Raul Tkcheriuk, @RaulTkcheriuk: PLC
 * Nerea Iriepa, @nereairiepa: semáforo con servos
 * Luis del Valle, @programarfacilc: MKR1010 + Blynk
-* Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [Egokitek](https://github.com/Egokitek?tab=repositories) 
+* Miguel Ángel Abellán, @migueabellan: mBlock
+* Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [Egokitek](https://github.com/Egokitek?tab=repositories)
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
+
+[![los payasos de la tele](https://img.youtube.com/vi/OY8ffv_Urgk/0.jpg)](https://www.youtube.com/watch?v=OY8ffv_Urgk)
 
 ## Como contribuir
 
