@@ -3,7 +3,8 @@
 
 Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
-![alt text](https://github.com/dcuartielles/semaforos/blob/master/img/semaforo_gustavo.jpg?v=4&s=400) "PCB de semáforo for Gustavo Reynaga"
+![](https://github.com/dcuartielles/semaforos/blob/master/img/semaforo_gustavo_small.jpg) 
+*PCB de semáforo for Gustavo Reynaga*
 
 ## Lista de Ejemplos
 
@@ -23,6 +24,8 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Alex Corvis, @AlexCorvis84: Node Red
 * Jose Luis V., @Movilujo: ESP8266
 * Raul Tkcheriuk, @RaulTkcheriuk: PLC
+* Nerea Iriepa, @nereairiepa: semáforo con servos
+* Luis del Valle, @programarfacilc: MKR1010 + Blynk
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto
 
