@@ -39,4 +39,4 @@ Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el pro
 
 ## Licencia
 
-Este manual se presenta bajo [Creative Commons 0|https://creativecommons.org/publicdomain/zero/1.0/] (o dominio público para los amigos) todo el código está bajo GPLv3 a no ser que se diga lo contrario en uno de los ejemplos.
+Este manual se presenta bajo [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) (o dominio público para los amigos) todo el código está bajo [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) a no ser que se diga lo contrario en uno de los ejemplos.
