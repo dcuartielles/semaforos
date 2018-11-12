@@ -4,6 +4,7 @@
 Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
 ![](https://github.com/dcuartielles/semaforos/blob/master/img/semaforo_gustavo_small.jpg) 
+
 *PCB de semáforo for Gustavo Reynaga*
 
 ## Lista de Ejemplos
@@ -27,7 +28,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Nerea Iriepa, @nereairiepa: semáforo con servos
 * Luis del Valle, @programarfacilc: MKR1010 + Blynk
 
-Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto
+Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
 
 ## Como contribuir
 
