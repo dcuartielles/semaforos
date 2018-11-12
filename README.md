@@ -18,6 +18,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Luis Miranda, @LuisMirandaAceb: 555s y componentes discretos
 * María L, @tecnoloxia: semáforo mecánico
 * David Estévez, @DEFrobotics: RPi + WiringPi
+* David Estévez, @DEFrobotics: Semáforo con robot industrial (por los loles)
 * Nuria y Jorfru, @nuria_pp: DGT
 * Gustavo Reynaga, @gsreynaga: PCB personalizada
 * Iraisy Figueroa, @Iraisy: circuito textil con 555 
