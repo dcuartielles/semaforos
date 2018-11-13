@@ -1,4 +1,4 @@
-# Aprendiendo electrónica utilizando semáforos
+# Aprendiendo electrónica y programación utilizando semáforos
 *(título propuesto por La Hora Maker, aka Cesar García)*
 
 Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
