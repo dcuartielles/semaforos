@@ -16,7 +16,7 @@ Tranquis, la próxima versión de scratch que saldrá en enero ya no dependerá 
 
 [Semáforo simple](https://scratch.mit.edu/projects/70264508/)
 
-<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/Scratch/img/semaforo1.png" height="200" width="200">
+<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/Scratch/img/semaforo1.png" height="200">
 
 [Semáforo de coches e peóns](https://scratch.mit.edu/projects/70142748/)
 
