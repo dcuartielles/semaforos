@@ -9,7 +9,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
 ## Lista de Ejemplos
 
-* javacasm, @javacasm: introducción (aquí forzando)
+* Jose Antonio Vacas, @javacasm: introducción (aquí forzando)
 * Julián Caro Linares, @jcarolinares: FPGA
 * David Cuartielles, @dcuartielles: Arduino
 * Raúl Lapeira Herrero, @raul_lapeira: Skypic
