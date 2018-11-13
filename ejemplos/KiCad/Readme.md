@@ -4,15 +4,10 @@ Aquí encontraras varias PCBs personalizadas en forma de SEMAFORO, que podrás u
 
 ### e-Textil
 
-* [Mini 4 Pines]() <img src="img/01_Front_4_Pin.svg" height="100" width="100">
-* [Mini 6 Pines]() <img src="img/01_Front_6_Pin.svg" height="100" width="100">
-* [Big 4 Pines]() <img src="img/01_Front_Big.svg" height="100" width="100">
+* [Mini 4 Pines](https://github.com/dcuartielles/semaforos/tree/master/ejemplos/KiCad/src/E-Textil/Mini_4_Pin) <img src="img/01_Front_4_Pin.svg" height="100" width="100">
+* [Mini 6 Pines](https://github.com/dcuartielles/semaforos/tree/master/ejemplos/KiCad/src/E-Textil/Mini_6_Pin) <img src="img/01_Front_6_Pin.svg" height="100" width="100">
+* [Big 4 Pines](https://github.com/dcuartielles/semaforos/tree/master/ejemplos/KiCad/src/E-Textil/Big_4_Pin) <img src="img/01_Front_Big.svg" height="100" width="100">
 
-### ATTiny 85
-
-### Arduino UNO
-
-### Universal
 
 ## Sobre el autor
 
