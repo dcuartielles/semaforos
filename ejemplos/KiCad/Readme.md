@@ -4,7 +4,7 @@ Aquí encontraras varias PCBs personalizadas en forma de SEMAFORO, que podrás u
 
 ### e-Textil
 
-* [Mini 4 Pines]() ![](img/01_Front_4_Pin.svg) 
+* [Mini 4 Pines]() ![|512x397,20%]](img/01_Front_4_Pin.svg) 
 * [Mini 6 Pines]()
 * [Big 4 Pines]()
 
