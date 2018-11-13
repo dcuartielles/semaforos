@@ -4,7 +4,7 @@ Aquí encontraras varias PCBs personalizadas en forma de SEMAFORO, que podrás u
 
 ## Sobre el autor
 
-![](img/Gus.jpg) 
+![](img/gus.svg) 
 
 No siempre es fácil hablar de uno mismo, así que te “platicare” quien soy como si estuviéramos departiendo en algún café o Pub. Nací en la Ciudad y puerto de Mazatlán, Sinaloa, México. Mis estudios profesionales son de Contador Publico y tengo una Maestría en Educación.
 Trabajo como Instructor de Informática desde 1996 en el [Centro de Capacitación para el Trabajo # 132](https://www.facebook.com/CECATI132/).
