@@ -17,6 +17,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Jorge, @akirasan: ATtiny85 + Arduino como programador
 * Luis Miranda, @LuisMirandaAceb: 555s y componentes discretos
 * María L, @tecnoloxia: semáforo mecánico
+* María L, @tecnoloxia: Scratch
 * David Estévez, @DEFrobotics: RPi + WiringPi
 * David Estévez, @DEFrobotics: Semáforo con robot industrial (por los loles)
 * Nuria y Jorfru, @nuria_pp: DGT
