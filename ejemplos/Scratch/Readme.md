@@ -5,7 +5,7 @@ Scratch es un entorno de programación gráfica. No programaremos un semáforo f
 ## Sobre la autora
 María Loureiro
 
-Por qué esta plataforma
+## Por qué esta plataforma
 Porque es fantástica para aprender a programar, peques y grandes. 
 
 ## Cómo y porqué de tu proyecto
