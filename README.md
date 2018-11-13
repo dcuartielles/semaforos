@@ -28,7 +28,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Jose Luis V., @Movilujo: ESP8266
 * Raul Tkcheriuk, @RaulTkcheriuk: PLC
 * Nerea Iriepa, @nereairiepa: semáforo con servos
-* Luis del Valle, @programarfacilc: MKR1010 + Blynk
+* Luis del Valle, @programarfacilc: MKR1000 + Blynk
 * Miguel Ángel Abellán, @migueabellan: mBlock
 * Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [Egokitek](https://github.com/Egokitek?tab=repositories)
 
