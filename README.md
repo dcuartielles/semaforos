@@ -21,7 +21,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * David Estévez, @DEFrobotics: RPi + WiringPi
 * David Estévez, @DEFrobotics: Semáforo con robot industrial (por los loles)
 * Nuria y Jorfru, @nuria_pp: DGT
-* Gustavo Reynaga, @gsreynaga: PCB personalizada con KiCad.  [hulkco](https://github.com/hulkco?tab=repositories)
+* Gustavo Reynaga, @gsreynaga: [PCB personalizada con KiCad.](https://github.com/dcuartielles/semaforos/tree/master/ejemplos/KiCad)  [hulkco](https://github.com/hulkco?tab=repositories)
 * Iraisy Figueroa, @Iraisy: circuito textil con 555 
 * Iraisy Figueroa, @Iraisy: S4A
 * Alex Corvis, @AlexCorvis84: Node Red
