@@ -20,4 +20,4 @@ Tranquis, la próxima versión de scratch que saldrá en enero ya no dependerá 
 
 [Semáforo de coches e peóns](https://scratch.mit.edu/projects/70142748/)
 
-<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/Scratch/img/semaforo2.png" height="300" width="300">
+<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/Scratch/img/semaforo2.png" height="350">
