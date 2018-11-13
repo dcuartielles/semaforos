@@ -31,6 +31,8 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Luis del Valle, @programarfacilc: MKR1010 + Blynk
 * Miguel Ángel Abellán, @migueabellan: mBlock
 * Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [Egokitek](https://github.com/Egokitek?tab=repositories)
+* Manuel, @leobotmanuel: semáforo RGB + ATmega32U4 (Arduino micro)
+* Manuel, @leobotmanuel: micro:bit
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
 
