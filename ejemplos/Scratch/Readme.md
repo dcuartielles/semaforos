@@ -11,7 +11,7 @@ Porque es fantástica para aprender a programar, peques y grandes.
 ## Cómo y porqué de tu proyecto
 Hay que divertirse :-)
 
-No hace falta subir nada aquí, pues los programas y el código se ven online ("see indide").
+No hace falta subir nada aquí, pues los programas y el código se ven online ("see inside").
 Tranquis, la próxima versión de scratch que saldrá en enero ya no dependerá de adobe flash ;-)
 
 [Semáforo simple] (https://scratch.mit.edu/projects/70264508/)
