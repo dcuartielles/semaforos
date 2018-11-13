@@ -7,7 +7,8 @@ XXXYYYZZZ
 ## Sobre la autora
 
 No siempre es fácil hablar de uno mismo, así que te “platicare” quien soy como si estuviéramos departiendo en algún café o Pub. Nací en la Ciudad y puerto de Mazatlán, Sinaloa, México. Mis estudios profesionales son de Contador Publico y tengo una Maestría en Educación.
-Trabajo como Instructor de Informática desde 1996 en el [Centro de Capacitación para el Trabajo # 132](https://www.facebook.com/CECATI132/). 
+Trabajo como Instructor de Informática desde 1996 en el [Centro de Capacitación para el Trabajo # 132](https://www.facebook.com/CECATI132/).
+ 
 ##Como me inicie en el mundo Maker?
 Bueno, en el receso de Semana Santa de 2015 aproveché a buscar algo que pudiera innovar la especialidad que imparto y descubrí a Arduino y la Raspberry Pi.
 
