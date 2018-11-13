@@ -2,6 +2,18 @@
 
 Aquí encontraras varias PCBs personalizadas en forma de SEMAFORO, que podrás utilizar para tus ejemplos, si tienes alguna sugerencia por favor házmelo saber, gracias.
 
+### e-Textil
+
+* [Mini 4 Pines]() ![](img/01_Front_4_Pin.svg) 
+* [Mini 6 Pines]()
+* [Big 4 Pines]()
+
+### ATTiny 85
+
+### Arduino UNO
+
+### Universal
+
 ## Sobre el autor
 
 ![](img/gus.svg) 
