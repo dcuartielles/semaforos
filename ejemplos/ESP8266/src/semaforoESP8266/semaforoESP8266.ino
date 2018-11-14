@@ -12,7 +12,7 @@
    
     Extended version of the creation of a traffic light with an ESP8266
 
-    The semaphore has two modes of operation:
+    The traffic lights has two modes of operation:
         * automatic (default)
         * manual through web server
 
