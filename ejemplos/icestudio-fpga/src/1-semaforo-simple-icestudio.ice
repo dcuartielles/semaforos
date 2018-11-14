@@ -12,15 +12,15 @@
     "graph": {
       "blocks": [
         {
-          "id": "5e0625d8-07ea-4643-bbf4-e2a01de421ed",
+          "id": "7ac8fa06-9915-426a-b76d-77a56d7892ad",
           "type": "basic.output",
           "data": {
-            "name": "rojo",
+            "name": "verde",
             "pins": [
               {
                 "index": "0",
-                "name": "D13",
-                "value": "64"
+                "name": "D11",
+                "value": "21"
               }
             ],
             "virtual": false
@@ -70,15 +70,15 @@
           }
         },
         {
-          "id": "7ac8fa06-9915-426a-b76d-77a56d7892ad",
+          "id": "5e0625d8-07ea-4643-bbf4-e2a01de421ed",
           "type": "basic.output",
           "data": {
-            "name": "verde",
+            "name": "rojo",
             "pins": [
               {
                 "index": "0",
-                "name": "D11",
-                "value": "21"
+                "name": "D13",
+                "value": "64"
               }
             ],
             "virtual": false
@@ -174,19 +174,41 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "403d9923-b262-446d-aa39-8501752e2f78",
+          "type": "basic.info",
+          "data": {
+            "info": "# Semáforo\n\nEl **semáforo** es la unidad educativa\nbásica.\n\n* Un semáforo está bien...\n\n* Dos semáforos son demasiados\n\nApoya el movimiento #nomassemaforos",
+            "readonly": false
+          },
+          "position": {
+            "x": 408,
+            "y": 224
+          },
+          "size": {
+            "width": 296,
+            "height": 184
+          }
+        },
+        {
+          "id": "a66567a3-ee55-44ad-97dd-635cd209105d",
+          "type": "basic.info",
+          "data": {
+            "info": " **\"Prometo solemnemente no recurrir al semáforo en mis clases, en su lugar buscaré siempre una alternativa mejor, Amén\"**",
+            "readonly": false
+          },
+          "position": {
+            "x": 384,
+            "y": 552
+          },
+          "size": {
+            "width": 888,
+            "height": 32
+          }
         }
       ],
       "wires": [
-        {
-          "source": {
-            "block": "39ed9f04-45ce-4b9e-81b9-fb6cc3a0a48a",
-            "port": "c45dab76-9d0f-4742-9e4d-3048637d245d"
-          },
-          "target": {
-            "block": "5e0625d8-07ea-4643-bbf4-e2a01de421ed",
-            "port": "in"
-          }
-        },
         {
           "source": {
             "block": "41c7b6b8-549f-4c33-9897-62d3cbf47d40",
@@ -263,16 +285,6 @@
         },
         {
           "source": {
-            "block": "18ed7498-a3bd-4cf2-8859-be79a66503d9",
-            "port": "c45dab76-9d0f-4742-9e4d-3048637d245d"
-          },
-          "target": {
-            "block": "7ac8fa06-9915-426a-b76d-77a56d7892ad",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
             "block": "46896a19-a0ff-45e9-9965-85609cffc2c6",
             "port": "out"
           },
@@ -305,6 +317,26 @@
           "target": {
             "block": "39ed9f04-45ce-4b9e-81b9-fb6cc3a0a48a",
             "port": "61d11f03-6fbc-4467-a947-d546fa6f6429"
+          }
+        },
+        {
+          "source": {
+            "block": "39ed9f04-45ce-4b9e-81b9-fb6cc3a0a48a",
+            "port": "c45dab76-9d0f-4742-9e4d-3048637d245d"
+          },
+          "target": {
+            "block": "7ac8fa06-9915-426a-b76d-77a56d7892ad",
+            "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "18ed7498-a3bd-4cf2-8859-be79a66503d9",
+            "port": "c45dab76-9d0f-4742-9e4d-3048637d245d"
+          },
+          "target": {
+            "block": "5e0625d8-07ea-4643-bbf4-e2a01de421ed",
+            "port": "in"
           }
         }
       ]
