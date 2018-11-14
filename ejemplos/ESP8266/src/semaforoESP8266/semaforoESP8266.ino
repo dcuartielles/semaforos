@@ -83,8 +83,6 @@ void setColor(int color){
 
 // set the trafficLight in automatic mode
 void setAuto(){
-  //Serial.println("en auto");
-  isAuto = true;
   for (int i = 0; i < 3; i++){
     digitalWrite(semaforo[i],(i == colorAuto));
   }
@@ -137,7 +135,12 @@ void setup() {
     server.send(200, "text/plain", "Green on");
   });
   
-  server.on("/auto", setAuto);
+  server.on("/auto", [](){
+    isAuto = true;
+    setAuto();
+    server.send(200, "text/plain", "Mode Automatic");  
+  });
+          
   server.on("/help", [](){
     server.send(200, "text/plain", "/red, /yellow, /green, /auto");
   });
