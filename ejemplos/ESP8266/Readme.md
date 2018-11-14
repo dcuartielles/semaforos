@@ -1,6 +1,6 @@
 # ESP8266 (ESP01)
 
-Este es el ejemplo de cómo hacer un semáforo usando una placa ESP8266 (ESP01).
+Este es el ejemplo de cómo hacer un semáforo usando una placa ESP8266 (Wemos D1 mini).
 
 XXXYYYZZZ
 
