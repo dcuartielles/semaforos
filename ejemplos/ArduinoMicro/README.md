@@ -2,6 +2,9 @@
 
 Este es el ejemplo de cómo hacer un semáforo usando una placa Arduino Micro oficial.
 
+![](img/montajeSemaforo.png)
+
+
 ## Sobre el autor
 
 Manuel Hidalgo - LeoBot - [@leobotmanuel](https://github.com/leobotmanuel)
