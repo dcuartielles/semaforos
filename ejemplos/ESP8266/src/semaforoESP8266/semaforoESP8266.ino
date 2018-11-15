@@ -49,7 +49,7 @@ const byte GPIN = 13;
 boolean isAuto = true; //default automatic mode
 int colorAuto = 2;     
 
-int semaforo[] = {RPIN, YPIN, GPIN};
+int semaforo[] = {GPIN, YPIN, RPIN};
 
 ESP8266WebServer server(80); 
 
