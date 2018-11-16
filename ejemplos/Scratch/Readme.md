@@ -20,4 +20,4 @@ Código: [Semáforo simple](https://scratch.mit.edu/projects/70264508/)
 
 Código: [Semáforo de coches e peóns](https://scratch.mit.edu/projects/70142748/)
 
-[Vídeo](https://www.youtube.com/watch?v=ygiB_F7ReJ8)
+[![Vídeo](<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/Scratch/img/semaforo2.png" height="300">)](https://www.youtube.com/watch?v=ygiB_F7ReJ8)
