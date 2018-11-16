@@ -1,0 +1,227 @@
+EESchema Schematic File Version 4
+LIBS:nomassemaforos-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R R3
+U 1 1 5BEA06E4
+P 5250 3850
+F 0 "R3" V 5000 3850 50  0000 C CNN
+F 1 "R" V 5100 3850 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5180 3850 50  0001 C CNN
+F 3 "~" H 5250 3850 50  0001 C CNN
+	1    5250 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5BEA0764
+P 5250 2950
+F 0 "R1" V 5000 2950 50  0000 C CNN
+F 1 "R" V 5100 2950 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5180 2950 50  0001 C CNN
+F 3 "~" H 5250 2950 50  0001 C CNN
+	1    5250 2950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5BEA079E
+P 5250 3400
+F 0 "R2" V 5000 3400 50  0000 C CNN
+F 1 "R" V 5100 3400 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5180 3400 50  0001 C CNN
+F 3 "~" H 5250 3400 50  0001 C CNN
+	1    5250 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D2
+U 1 1 5BEA0A2E
+P 4850 3400
+F 0 "D2" H 4850 3650 50  0000 C CNN
+F 1 "LED" H 4850 3550 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_FlatTop" H 4850 3400 50  0001 C CNN
+F 3 "~" H 4850 3400 50  0001 C CNN
+	1    4850 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 5BEA0A92
+P 4850 3850
+F 0 "D3" H 4850 4100 50  0000 C CNN
+F 1 "LED" H 4850 4000 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_FlatTop" H 4850 3850 50  0001 C CNN
+F 3 "~" H 4850 3850 50  0001 C CNN
+	1    4850 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5BEA0AC0
+P 4850 2950
+F 0 "D1" H 4850 3200 50  0000 C CNN
+F 1 "LED" H 4850 3100 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_FlatTop" H 4850 2950 50  0001 C CNN
+F 3 "~" H 4850 2950 50  0001 C CNN
+	1    4850 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCU_Microchip_ATtiny:ATtiny85-20PU U1
+U 1 1 5BEADE4F
+P 4300 2150
+F 0 "U1" H 3950 2550 50  0000 R CNN
+F 1 "ATtiny85-20PU" H 4100 1600 50  0000 R CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 4300 2150 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf" H 4300 2150 50  0001 C CNN
+	1    4300 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0101
+U 1 1 5BEAE81E
+P 4300 1200
+F 0 "#PWR0101" H 4300 1050 50  0001 C CNN
+F 1 "+5V" H 4350 1400 50  0000 C CNN
+F 2 "" H 4300 1200 50  0001 C CNN
+F 3 "" H 4300 1200 50  0001 C CNN
+	1    4300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0102
+U 1 1 5BEAE89B
+P 4700 1550
+F 0 "#PWR0102" H 4700 1400 50  0001 C CNN
+F 1 "VCC" H 4750 1750 50  0000 C CNN
+F 2 "" H 4700 1550 50  0001 C CNN
+F 3 "" H 4700 1550 50  0001 C CNN
+	1    4700 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5BEAE996
+P 4300 4050
+F 0 "#PWR0103" H 4300 3800 50  0001 C CNN
+F 1 "GND" H 4350 3850 50  0000 C CNN
+F 2 "" H 4300 4050 50  0001 C CNN
+F 3 "" H 4300 4050 50  0001 C CNN
+	1    4300 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 4050 4300 3850
+Wire Wire Line
+	4700 2950 4300 2950
+Connection ~ 4300 2950
+Wire Wire Line
+	4300 2950 4300 2750
+Wire Wire Line
+	4700 3400 4300 3400
+Connection ~ 4300 3400
+Wire Wire Line
+	4300 3400 4300 2950
+Wire Wire Line
+	4700 3850 4300 3850
+Connection ~ 4300 3850
+Wire Wire Line
+	4300 3850 4300 3700
+Wire Wire Line
+	5100 3850 5000 3850
+Wire Wire Line
+	5000 3400 5100 3400
+Wire Wire Line
+	5100 2950 5000 2950
+Wire Wire Line
+	5400 2950 5400 2050
+Wire Wire Line
+	5400 2050 4900 2050
+Wire Wire Line
+	5400 3400 5500 3400
+Wire Wire Line
+	5500 3400 5500 1950
+Wire Wire Line
+	5500 1950 4900 1950
+Wire Wire Line
+	5400 3850 5600 3850
+Wire Wire Line
+	5600 3850 5600 1850
+Wire Wire Line
+	5600 1850 4900 1850
+Wire Wire Line
+	4700 1550 4300 1550
+Wire Wire Line
+	4300 1200 4300 1400
+Connection ~ 4300 1550
+NoConn ~ 4900 2150
+NoConn ~ 4900 2250
+NoConn ~ 4900 2350
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5BEB056E
+P 3800 3700
+F 0 "#FLG0101" H 3800 3775 50  0001 C CNN
+F 1 "PWR_FLAG" H 3800 3900 50  0000 C CNN
+F 2 "" H 3800 3700 50  0001 C CNN
+F 3 "~" H 3800 3700 50  0001 C CNN
+	1    3800 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 3700 4300 3700
+Connection ~ 4300 3700
+Wire Wire Line
+	4300 3700 4300 3400
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5BEB0796
+P 3800 1400
+F 0 "#FLG0102" H 3800 1475 50  0001 C CNN
+F 1 "PWR_FLAG" H 3800 1600 50  0000 C CNN
+F 2 "" H 3800 1400 50  0001 C CNN
+F 3 "~" H 3800 1400 50  0001 C CNN
+	1    3800 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 1400 4300 1400
+Connection ~ 4300 1400
+Wire Wire Line
+	4300 1400 4300 1550
+$Comp
+L Connector_Generic:Conn_01x02 J1
+U 1 1 5BEB1586
+P 3150 2300
+F 0 "J1" H 3050 1950 50  0000 C CNN
+F 1 "Conn_01x02" H 3050 2050 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 3150 2300 50  0001 C CNN
+F 3 "~" H 3150 2300 50  0001 C CNN
+	1    3150 2300
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3350 2300 3350 2950
+Wire Wire Line
+	3350 2950 4300 2950
+Wire Wire Line
+	3350 2200 3500 2200
+Wire Wire Line
+	3500 2200 3500 1550
+Wire Wire Line
+	3500 1550 4300 1550
+$EndSCHEMATC
