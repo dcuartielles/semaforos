@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Semaforo)(type KiCad)(uri ${KIPRJMOD}/Semaforo.pretty)(options "")(descr ""))
+  (lib (name WemosGus)(type KiCad)(uri ${KIPRJMOD}/WemosGus.pretty)(options "")(descr ""))
+)

@@ -1,15 +1,15 @@
-# Aprendiendo electrónica utilizando semáforos
+# Aprendiendo electrónica y programación utilizando semáforos
 *(título propuesto por La Hora Maker, aka Cesar García)*
 
 Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
-![](https://github.com/dcuartielles/semaforos/blob/master/img/semaforo_gustavo_small.jpg) 
+<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/KiCad/img/01_Front_Big.svg" height="200" width="200">
 
 *PCB de semáforo for Gustavo Reynaga*
 
 ## Lista de Ejemplos
 
-* javacasm, @javacasm: introducción (aquí forzando)
+* Jose Antonio Vacas, @javacasm: introducción (aquí forzando)
 * Julián Caro Linares, @jcarolinares: FPGA
 * David Cuartielles, @dcuartielles: Arduino
 * Raúl Lapeira Herrero, @raul_lapeira: Skypic
@@ -21,18 +21,18 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * David Estévez, @DEFrobotics: RPi + WiringPi
 * David Estévez, @DEFrobotics: Semáforo con robot industrial (por los loles)
 * Nuria y Jorfru, @nuria_pp: DGT
-* Gustavo Reynaga, @gsreynaga: PCB personalizada
+* Gustavo Reynaga, @gsreynaga: [PCB personalizada con KiCad.](https://github.com/dcuartielles/semaforos/tree/master/ejemplos/KiCad)  [hulkco](https://github.com/hulkco?tab=repositories)
 * Iraisy Figueroa, @Iraisy: circuito textil con 555 
 * Iraisy Figueroa, @Iraisy: S4A
 * Alex Corvis, @AlexCorvis84: Node Red
 * Jose Luis V., @Movilujo: ESP8266
 * Raul Tkcheriuk, @RaulTkcheriuk: PLC
 * Nerea Iriepa, @nereairiepa: semáforo con servos
-* Luis del Valle, @programarfacilc: MKR1010 + Blynk
+* Luis del Valle, @programarfacilc: MKR1000 + Blynk
 * Miguel Ángel Abellán, @migueabellan: mBlock
 * Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [Egokitek](https://github.com/Egokitek?tab=repositories)
-* Manuel, @leobotmanuel: semáforo RGB + ATmega32U4 (Arduino micro)
-* Manuel, @leobotmanuel: micro:bit
+* Manuel Hidalgo, @leobotmanuel: semáforo RGB + ATmega32U4 (Arduino micro)
+* Manuel Hidalgo, @leobotmanuel: micro:bit
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
 
