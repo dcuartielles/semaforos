@@ -5,7 +5,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
 <img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/KiCad/img/01_Front_Big.svg" height="200" width="200">
 
-*PCB de semáforo for Gustavo Reynaga*
+*PCB de semáforo por Gustavo Reynaga*
 
 ## Lista de Ejemplos
 
