@@ -5,7 +5,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
 <img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/KiCad/img/01_Front_Big.svg" height="200" width="200">
 
-*PCB de semáforo for Gustavo Reynaga*
+*PCB de semáforo por Gustavo Reynaga*
 
 ## Lista de Ejemplos
 
@@ -24,7 +24,8 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Gustavo Reynaga, @gsreynaga: [PCB personalizada con KiCad.](https://github.com/dcuartielles/semaforos/tree/master/ejemplos/KiCad)  [hulkco](https://github.com/hulkco?tab=repositories)
 * Iraisy Figueroa, @Iraisy: circuito textil con 555 
 * Iraisy Figueroa, @Iraisy: S4A
-* Alex Corvis, @AlexCorvis84: Node Red
+* Alex Corvis, @AlexCorvis84: Node-RED
+* Alex Corvis, @AlexCorvis84: MicroPython
 * Jose Luis V., @Movilujo: ESP8266
 * Raul Tkcheriuk, @RaulTkcheriuk: PLC
 * Nerea Iriepa, @nereairiepa: semáforo con servos
