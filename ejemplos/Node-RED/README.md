@@ -2,6 +2,9 @@
 Este es el ejemplo de cómo hacer un semáforo usando la plataforma Node-RED. 
 Si la plataforma está instalada en una Raspberry Pi, se pueden conectar LEDs a los pines GPIO para ver su funcionamiento, no obstante, se ha creado un Dashboard con 'Switches' para emular el Encendido/Apagado de los mismos.
 
+https://github.com/dcuartielles/semaforos/blob/master/ejemplos/Node-RED/img/Node-RED.png
+
+
 ## Sobre el autor
 Alejandro Juan Garcia, @AlexCorvis84
 
