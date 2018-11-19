@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist date="lun nov 19 14:37:06 2018" sketch="Sketch.fzz">
+ <net>
+  <connector name="V+" id="connector0">
+   <part label="V2" id="67320" title="Power"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part label="R3" id="66450" title="680Ω Resistor"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part label="R2" id="60360" title="680Ω Resistor"/>
+  </connector>
+  <connector name="_RES" id="connector3">
+   <part label="IC2" id="57730" title="General purpose bipolar Timer"/>
+  </connector>
+  <connector name="_RES" id="connector3">
+   <part label="IC1" id="57700" title="General purpose bipolar Timer"/>
+  </connector>
+  <connector name="VCC+" id="connector7">
+   <part label="IC1" id="57700" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 1" id="connector1">
+   <part label="R4" id="61600" title="470Ω Resistor"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part label="R5" id="63070" title="47kΩ Resistor"/>
+  </connector>
+  <connector name="OUT" id="connector2">
+   <part label="IC2" id="57730" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 0" id="connector0">
+   <part label="R5" id="63070" title="47kΩ Resistor"/>
+  </connector>
+  <connector name="+" id="connector1">
+   <part label="C2" id="58510" title="Electrolytic Capacitor"/>
+  </connector>
+  <connector name="TRI" id="connector1">
+   <part label="IC2" id="57730" title="General purpose bipolar Timer"/>
+  </connector>
+  <connector name="TRE" id="connector5">
+   <part label="IC2" id="57730" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="cathode" id="connector0">
+   <part label="LED3" id="61590" title="Green (560nm) LED"/>
+  </connector>
+  <connector name="GND" id="connector0">
+   <part label="IC2" id="57730" title="General purpose bipolar Timer"/>
+  </connector>
+  <connector name="GND" id="connector0">
+   <part label="Ground1" id="59770" title="Ground"/>
+  </connector>
+  <connector name="-" id="connector0">
+   <part label="C2" id="58510" title="Electrolytic Capacitor"/>
+  </connector>
+  <connector name="-" id="connector0">
+   <part label="C1" id="57760" title="Electrolytic Capacitor"/>
+  </connector>
+  <connector name="GND" id="connector0">
+   <part label="IC1" id="57700" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="DIS" id="connector6">
+   <part label="IC2" id="57730" title="General purpose bipolar Timer"/>
+  </connector>
+  <connector name="cathode" id="connector0">
+   <part label="LED2" id="60810" title="Orange (612nm) LED"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 0" id="connector0">
+   <part label="R2" id="60360" title="680Ω Resistor"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part label="LED1" id="60330" title="Red (633nm) LED"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 0" id="connector0">
+   <part label="R3" id="66450" title="680Ω Resistor"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part label="LED2" id="60810" title="Orange (612nm) LED"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 0" id="connector0">
+   <part label="R4" id="61600" title="470Ω Resistor"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part label="LED3" id="61590" title="Green (560nm) LED"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="cathode" id="connector0">
+   <part label="LED1" id="60330" title="Red (633nm) LED"/>
+  </connector>
+  <connector name="OUT" id="connector2">
+   <part label="IC1" id="57700" title="General purpose bipolar Timer"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part label="R1" id="57750" title="100kΩ Resistor"/>
+  </connector>
+  <connector name="VCC+" id="connector7">
+   <part label="IC2" id="57730" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 0" id="connector0">
+   <part label="R1" id="57750" title="100kΩ Resistor"/>
+  </connector>
+  <connector name="+" id="connector1">
+   <part label="C1" id="57760" title="Electrolytic Capacitor"/>
+  </connector>
+  <connector name="TRI" id="connector1">
+   <part label="IC1" id="57700" title="General purpose bipolar Timer"/>
+  </connector>
+  <connector name="TRE" id="connector5">
+   <part label="IC1" id="57700" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="DIS" id="connector6">
+   <part label="IC1" id="57700" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="CON" id="connector4">
+   <part label="IC1" id="57700" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="CON" id="connector4">
+   <part label="IC2" id="57730" title="General purpose bipolar Timer"/>
+  </connector>
+ </net>
+</netlist>

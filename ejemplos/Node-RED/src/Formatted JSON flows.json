@@ -1,0 +1,630 @@
+[
+    {
+        "id": "1a7fca37.194e86",
+        "type": "tab",
+        "label": "Semáforo",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "5dc4b441.035d3c",
+        "type": "inject",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 130,
+        "y": 100,
+        "wires": [
+            [
+                "ab8eb911.f42998",
+                "85d01ed4.673c7",
+                "f9f5281a.176f68",
+                "e703ac3b.4c9aa"
+            ]
+        ]
+    },
+    {
+        "id": "dd4e3d1e.53cda",
+        "type": "rpi-gpio out",
+        "z": "1a7fca37.194e86",
+        "name": "YELLOW",
+        "pin": "12",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "x": 800,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "ad129bf4.bb66b8",
+        "type": "rpi-gpio out",
+        "z": "1a7fca37.194e86",
+        "name": "RED",
+        "pin": "13",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "x": 810,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "ab8eb911.f42998",
+        "type": "delay",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 180,
+        "y": 200,
+        "wires": [
+            [
+                "dd4e3d1e.53cda",
+                "fc3f37c3.870c48",
+                "7ecdd1e.3bd2c3",
+                "f6a91e99.9d982",
+                "510f4ed6.fe05b"
+            ]
+        ]
+    },
+    {
+        "id": "7ecdd1e.3bd2c3",
+        "type": "delay",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "3",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 180,
+        "y": 300,
+        "wires": [
+            [
+                "ad129bf4.bb66b8",
+                "35d789c7.7daf36",
+                "6b0accfe.9aa4e4",
+                "8ce57865.e98818",
+                "6d11721e.e29a8c"
+            ]
+        ]
+    },
+    {
+        "id": "74917575.f4cd9c",
+        "type": "rpi-gpio out",
+        "z": "1a7fca37.194e86",
+        "name": "GREEN",
+        "pin": "11",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "x": 800,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "fc3f37c3.870c48",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "Reset GREEN",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 140,
+        "wires": [
+            [
+                "74917575.f4cd9c",
+                "50c02fc4.e9c34",
+                "694b89a5.ebe8f8"
+            ]
+        ]
+    },
+    {
+        "id": "85d01ed4.673c7",
+        "type": "rpi-gpio out",
+        "z": "1a7fca37.194e86",
+        "name": "GREEN",
+        "pin": "11",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "x": 800,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "c0471a65.84f9d8",
+        "type": "rpi-gpio out",
+        "z": "1a7fca37.194e86",
+        "name": "YELLOW",
+        "pin": "12",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "x": 800,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "35d789c7.7daf36",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "Reset YELLOW",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 240,
+        "wires": [
+            [
+                "c0471a65.84f9d8",
+                "c3f7eb60.c9df98",
+                "15c47ad5.e1fd95"
+            ]
+        ]
+    },
+    {
+        "id": "f9f5281a.176f68",
+        "type": "debug",
+        "z": "1a7fca37.194e86",
+        "name": "Red",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 970,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "50c02fc4.e9c34",
+        "type": "debug",
+        "z": "1a7fca37.194e86",
+        "name": "Red",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 970,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "c3f7eb60.c9df98",
+        "type": "debug",
+        "z": "1a7fca37.194e86",
+        "name": "Yellow",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 970,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "f6a91e99.9d982",
+        "type": "debug",
+        "z": "1a7fca37.194e86",
+        "name": "Yellow",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 970,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "6b0accfe.9aa4e4",
+        "type": "debug",
+        "z": "1a7fca37.194e86",
+        "name": "Green",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 970,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "8ce57865.e98818",
+        "type": "delay",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 180,
+        "y": 400,
+        "wires": [
+            [
+                "881b74e5.dd6958",
+                "85d01ed4.673c7",
+                "ab8eb911.f42998",
+                "e703ac3b.4c9aa"
+            ]
+        ]
+    },
+    {
+        "id": "881b74e5.dd6958",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "Reset RED",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 400,
+        "wires": [
+            [
+                "f90f7098.50f81",
+                "a1d4d453.934568",
+                "af288b07.a6e158"
+            ]
+        ]
+    },
+    {
+        "id": "f90f7098.50f81",
+        "type": "rpi-gpio out",
+        "z": "1a7fca37.194e86",
+        "name": "RED",
+        "pin": "13",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "x": 810,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "a1d4d453.934568",
+        "type": "debug",
+        "z": "1a7fca37.194e86",
+        "name": "Green",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 970,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "510f4ed6.fe05b",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 580,
+        "wires": [
+            [
+                "673eb532.0ff19c"
+            ]
+        ]
+    },
+    {
+        "id": "e703ac3b.4c9aa",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 500,
+        "wires": [
+            [
+                "25107ebe.c6e0d2"
+            ]
+        ]
+    },
+    {
+        "id": "6d11721e.e29a8c",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 660,
+        "wires": [
+            [
+                "6a3fc46c.eeb2dc"
+            ]
+        ]
+    },
+    {
+        "id": "25107ebe.c6e0d2",
+        "type": "ui_switch",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "label": "VERDE",
+        "group": "95e5f821.53ff28",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "x": 800,
+        "y": 520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6a3fc46c.eeb2dc",
+        "type": "ui_switch",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "label": "ROJO",
+        "group": "95e5f821.53ff28",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "x": 810,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "673eb532.0ff19c",
+        "type": "ui_switch",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "label": "AMARILLO",
+        "group": "95e5f821.53ff28",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "x": 790,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "694b89a5.ebe8f8",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 540,
+        "wires": [
+            [
+                "25107ebe.c6e0d2"
+            ]
+        ]
+    },
+    {
+        "id": "15c47ad5.e1fd95",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 620,
+        "wires": [
+            [
+                "673eb532.0ff19c"
+            ]
+        ]
+    },
+    {
+        "id": "af288b07.a6e158",
+        "type": "change",
+        "z": "1a7fca37.194e86",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 700,
+        "wires": [
+            [
+                "6a3fc46c.eeb2dc"
+            ]
+        ]
+    },
+    {
+        "id": "95e5f821.53ff28",
+        "type": "ui_group",
+        "z": "",
+        "name": "Semáforo Node-RED",
+        "tab": "5ffbb499.4efd6c",
+        "order": 1,
+        "disp": true,
+        "width": "6"
+    },
+    {
+        "id": "5ffbb499.4efd6c",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Home",
+        "icon": "dashboard"
+    }
+]
