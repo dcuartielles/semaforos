@@ -166,11 +166,12 @@ Con esto has terminado la configuración de la aplicación. Antes de ejecutarla 
 ![20]
 
 **6. Ejecutar la aplicación**
+
 Hasta ahora has estado trabajando en modo diseño o edición. Para que funcione como una app normal, tienes que dar al botón de play de la parte superior derecha. Esto ejecutará la app y podrás pulsar el botón semáforo y seleccionar un color.
 
 Como todavía no hemos cargado el código a la placa, dará un error de conexión. No te preocupes, es normal. Si quieres volver al modo diseño o edición sólo tienes que pulsar en el cuadrado de la parte superior derecha.
 
-![26]
+![24]
 
 Ahora sólo te queda una cosa, configurar la red WiFi y el *Auth Token* en el código y subirlo a la placa.
 
@@ -187,11 +188,12 @@ La red WiFi tiene que tener conexión a Internet para que funcione el proyecto.
 
 Abre tu correo y busca el email que te habrá enviado Blynk. Allí tendrás tu *Auth Token*. Lo tienes que copiar en el archivo *settings.h*
 
-![24]
+![25]
 
 Sólo te queda una cosa, sube el código a la placa. Ahora ya puedes controlar el semáforo desde una app móvil.
 
 ## Conclusiones
+
 Ha sido un ejemplo quizás algo complejo si tu experiencia con este tipo de tecnologías no es mucha. Sin embargo tenemos que ser conscientes de la cantidad de herramientas que tenemos a nuestro alcance para hacer cosas increíbles.
 
 Poder hacer un sistema completo en menos de 1 hora que nos permita cambiar la luz de un LED desde un móvil no es algo trivial. Gracias a este tipo de herramientas como Arduino y Blynk, el poder hacer esto está al alcance de todos.
@@ -219,7 +221,7 @@ Sólo queda una cosa y es seguir mejorando este proyecto. Si se te ocurre alguna
 [19]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/BLYNK-04.PNG "Configurar Blynk"
 [20]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/BLYNK-05.PNG "Configurar Blynk"
 [21]: https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/500x375/f8876a31b63532bbba4e781c30024a0a/A/B/ABX00004_iso_2.jpg "Arduino MKR1000"
-[22]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/MKR1000-BLYNK.jpg "Arduino MKR1000 y Blynk"
-[23]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/FRITZING-MKR1000-NEOPIXEL.svg "Arduino MKR1000 y Blynk"
+[22]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/SEMAFORO-MKR1000-BLYNK.jpg "Arduino MKR1000 y Blynk"
+[23]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/MKR1000-NEOPIXEL-FRITZING.png "Arduino MKR1000 y Blynk"
 [24]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/BLYNK-06.PNG "Configurar Blynk"
-[24]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/AUTH-TOKEN.png "Configurar Auth Token"
+[25]: https://raw.github.com/dcuartielles/semaforos/master/ejemplos/MKR1000-Blynk/img/AUTH-TOKEN.png "Configurar Auth Token"
