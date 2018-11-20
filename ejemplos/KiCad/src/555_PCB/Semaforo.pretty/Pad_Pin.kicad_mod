@@ -1,0 +1,9 @@
+(module Pad_Pin (layer F.Cu) (tedit 5BE9DBB0)
+  (fp_text reference REF9** (at -5.97408 5.86232) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Pad_Pin (at 0 -3.302) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 3 3) (layers B.Cu B.Mask))
+)
