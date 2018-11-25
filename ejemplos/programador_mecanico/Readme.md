@@ -9,7 +9,7 @@ María Loureiro https://tecnoloxia.org
 
 ## Por qué esta plataforma. Cómo y porqué de tu proyecto
 
-Hace años, cuando en una controladora te costaba el presupuesto del departamento de todo un año, a única manera que teníamos de trabajar el control de sistemas en clase de tecnología era mediante automatismos electrónicos no programables o mediante dispositivos mecánicos fabricados de forma artesanal.
+Hace años, cuando una controladora te costaba el presupuesto del departamento de todo un año, la única manera que teníamos de trabajar el control de sistemas en clase de tecnología era mediante automatismos electrónicos no programables o mediante dispositivos mecánicos fabricados de forma artesanal.
 
 Yo nunca hice un semáforo de estos, pero es un clásico en los talleres de los institutos antes de la llegada de arduino y otras tarjetas controladoreas asequibles, así que merece su sitio en este repositorio.
 
