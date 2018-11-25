@@ -15,14 +15,12 @@ Yo nunca hice un semáforo de estos, pero es un clásico en los talleres de los 
 
 ## Programadores
 
-<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/programador_mecanico/img/cp7.jpg" height="250"><img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/programador_mecanico/img/cp8.jpg" height="250">
+<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/programador_mecanico/img/cp7.jpg" height="300"><img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/programador_mecanico/img/cp8.jpg" height="300">
 
 
 ## Ejemplos
 
-<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/programador_mecanico/img/CIMG1680.jpg" height="250">
-
-<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/programador_mecanico/img/PICT0003%20Cruce%20semaforos.%20Bote%20programador.JPG" height="250">
+<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/programador_mecanico/img/CIMG1680.jpg" height="250"><img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/programador_mecanico/img/PICT0003%20Cruce%20semaforos.%20Bote%20programador.JPG" height="250">
 
 ## Vídeo de un semáforo con bote programador casero
 
