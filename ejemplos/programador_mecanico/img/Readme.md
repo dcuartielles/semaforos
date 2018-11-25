@@ -1,1 +1,5 @@
 Imágenes de programadores mecánicos caseros
+
+Sacadas de: 
+http://www.toscapin2.byethost7.com/paginacp.htm?i=1
+https://tecnologia-escolar-eso.blogspot.com/2006/06/proyecto-semaforo-con-bote-progr.html
