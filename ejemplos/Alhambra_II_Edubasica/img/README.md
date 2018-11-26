@@ -1,0 +1,1 @@
+imágenes del experimento
