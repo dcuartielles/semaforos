@@ -1,4 +1,4 @@
-15657292949647304
+15654223565381822
 Battery
 9VFemale
 
@@ -59899,9 +59899,30 @@ Shielding Cabinet
 48
 1
 Semaforo
+10mm.All
+Imported from Semaforo_10mm.svg
+svg2mod
+0
+0
+0
+Semaforo
+10mm.All.01
+Imported from Semaforo_10mm.svg
+svg2mod
+0
+0
+0
+Semaforo
 LED_D3.0mm
 LED, diameter 3.0mm, 2 pins
 LED diameter 3.0mm 2 pins
+0
+2
+2
+Semaforo
+LED_D10.0mm
+LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf
+LED diameter 10.0mm 2 pins
 0
 2
 2
@@ -59927,47 +59948,12 @@ Pad_Pin
 1
 1
 Semaforo
-Semaforo.All.01
-Imported from Semaforo.svg
-svg2mod
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
 0
-0
-0
-Semaforo
-Semaforo.All.02
-Imported from Semaforo.svg
-svg2mod
-0
-0
-0
-Semaforo
-Semaforo2.All.01
-Imported from Semaforo2.svg
-svg2mod
-0
-0
-0
-Semaforo
-Semaforo2.All.02
-Imported from Semaforo2.svg
-svg2mod
-0
-0
-0
-Semaforo
-Semaforo3.All.01
-Imported from Semaforo3.svg
-svg2mod
-0
-0
-0
-Semaforo
-Semaforo3.All.02
-Imported from Semaforo3.svg
-svg2mod
-0
-0
-0
+4
+4
 Sensor_Audio
 ST_HLGA-6_3.76x4.72mm_P1.65mm
 http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/27/62/48/98/44/54/4d/36/DM00303211/files/DM00303211.pdf/jcr:content/translations/en.DM00303211.pdf
