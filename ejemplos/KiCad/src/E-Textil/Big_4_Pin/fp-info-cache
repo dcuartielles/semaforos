@@ -1,4 +1,4 @@
-15657292949647304
+15671199975731257
 Battery
 9VFemale
 
@@ -65365,6 +65365,69 @@ Transformer Toroid tapped horizontal laying Diameter 14mm Amidon T50
 0
 6
 6
+Universal
+10mm.All.01
+Imported from Semaforo_10mm.svg
+svg2mod
+0
+0
+0
+Universal
+Developed-Silks3
+Imported from SVG/Developed.svg
+svg2mod
+0
+0
+0
+Universal
+GReynaga.CuMask3
+Imported from SVG/GReynaga.svg
+svg2mod
+0
+0
+0
+Universal
+KiCad-Logo2_6mm_SilkScreen
+KiCad Logo
+Logo KiCad
+0
+0
+0
+Universal
+LED_D10.0mm
+LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf
+LED diameter 10.0mm 2 pins
+0
+2
+2
+Universal
+OSHW-Logo2_7.3x6mm_Copper
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+Universal
+OSHW-Logo2_7.3x6mm_Mask
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+Universal
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Universal
+R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
