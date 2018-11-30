@@ -1,15 +1,21 @@
-## No más Semáforos.
+## Juramento y base principal
+
+"Prometo solemnemente no recurrir al semáforo en mis clases, en su lugar buscaré siempre una alternativa mejor, Amén"
+
+## Presentación
 
 Hola a todos:
 
 Mi nombre es José Fernando Picó Antolí ( José Picó para resumir jejejeje...) y solo decir que me apasiona la tecnología y en concreto todo lo relacionado con el mundo Maker.
-En el último año y medio me he comprado un par de impresoras 3D y estoy empezando a jugar con FPGAs gracias al proyecto Icestorm pero sobre todo gracias a la fabulosa herramienta Icestudio y a su comunidad que me tiene enganchado.
+En el último año y medio me he comprado un par de impresoras 3D y estoy empezando a jugar con FPGAs gracias al proyecto Icestorm, pero sobre todo, gracias a la fabulosa herramienta Icestudio y a su comunidad que me tiene enganchado.
 
-Me podéis seguir en Twitter como @_JoseFdo y podéis encontrar todo lo que hago con icestudio en mi github.  
+Me podéis seguir en Twitter como @JoseFdo_ y podéis encontrar todo lo que hago con icestudio en mi github.
 
 https://github.com/jospicant/IceStudio
 
 Saludos a todos
+
+## Proyecto
 
 Se muestra ejemplo de un semáforo donde se utilizan los siguientes elementos:  
 
@@ -24,7 +30,7 @@ Se muestra ejemplo de un semáforo donde se utilizan los siguientes elementos:
     y yo mismo en mi Github         https://github.com/jospicant/IceStudio/tree/master/Ice40/Modulos
 7.....
 
-## Espero que os guste y que evolucione.
+## Espero que os guste
 
 
 
