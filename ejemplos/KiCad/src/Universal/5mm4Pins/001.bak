@@ -1,0 +1,185 @@
+EESchema Schematic File Version 4
+LIBS:001-cache
+EELAYER 26 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L device:LED_ALT D1
+U 1 1 5BE9BA49
+P 4575 2500
+F 0 "D1" H 4568 2716 50  0000 C CNN
+F 1 "LED_ALT" H 4568 2625 50  0000 C CNN
+F 2 "Semaforo:LED_D5.0mm" H 4575 2500 50  0001 C CNN
+F 3 "" H 4575 2500 50  0001 C CNN
+	1    4575 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L device:LED_ALT D2
+U 1 1 5BE9C05B
+P 4575 3000
+F 0 "D2" H 4568 3216 50  0000 C CNN
+F 1 "LED_ALT" H 4568 3125 50  0000 C CNN
+F 2 "Semaforo:LED_D5.0mm" H 4575 3000 50  0001 C CNN
+F 3 "" H 4575 3000 50  0001 C CNN
+	1    4575 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L device:LED_ALT D3
+U 1 1 5BE9C46A
+P 4575 3500
+F 0 "D3" H 4568 3716 50  0000 C CNN
+F 1 "LED_ALT" H 4568 3625 50  0000 C CNN
+F 2 "Semaforo:LED_D5.0mm" H 4575 3500 50  0001 C CNN
+F 3 "" H 4575 3500 50  0001 C CNN
+	1    4575 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L 001-rescue:R-Cats_GPSLoRa-cache R1
+U 1 1 5BE9E5B3
+P 4100 2500
+F 0 "R1" V 3893 2500 50  0000 C CNN
+F 1 "330" V 3984 2500 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 4030 2500 50  0001 C CNN
+F 3 "" H 4100 2500 50  0000 C CNN
+	1    4100 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L 001-rescue:R-Cats_GPSLoRa-cache R2
+U 1 1 5BE9FDD1
+P 4100 3000
+F 0 "R2" V 3893 3000 50  0000 C CNN
+F 1 "330" V 3984 3000 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 4030 3000 50  0001 C CNN
+F 3 "" H 4100 3000 50  0000 C CNN
+	1    4100 3000
+	0    1    1    0   
+$EndComp
+$Comp
+L 001-rescue:R-Cats_GPSLoRa-cache R3
+U 1 1 5BEA0373
+P 4100 3500
+F 0 "R3" V 3893 3500 50  0000 C CNN
+F 1 "330" V 3984 3500 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 4030 3500 50  0001 C CNN
+F 3 "" H 4100 3500 50  0000 C CNN
+	1    4100 3500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4425 2500 4250 2500
+Wire Wire Line
+	4425 3000 4250 3000
+Wire Wire Line
+	4425 3500 4250 3500
+$Comp
+L power:GND #PWR03
+U 1 1 5BEA509F
+P 5100 3900
+F 0 "#PWR03" H 5100 3650 50  0001 C CNN
+F 1 "GND" H 5105 3727 50  0000 C CNN
+F 2 "" H 5100 3900 50  0001 C CNN
+F 3 "" H 5100 3900 50  0001 C CNN
+	1    5100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5BEAA0F2
+P 8000 2500
+F 0 "#PWR0102" H 8000 2250 50  0001 C CNN
+F 1 "GND" H 8005 2327 50  0000 C CNN
+F 2 "" H 8000 2500 50  0001 C CNN
+F 3 "" H 8000 2500 50  0001 C CNN
+	1    8000 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5BEABEA6
+P 8000 2250
+F 0 "#FLG0101" H 8000 2325 50  0001 C CNN
+F 1 "PWR_FLAG" H 8000 2423 50  0000 C CNN
+F 2 "" H 8000 2250 50  0001 C CNN
+F 3 "" H 8000 2250 50  0001 C CNN
+	1    8000 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8000 2250 8000 2500
+Wire Wire Line
+	4725 2500 5000 2500
+Wire Wire Line
+	4725 3000 5000 3000
+Wire Wire Line
+	4725 3500 5000 3500
+$Comp
+L semaforo:EdgeTraffic E1
+U 1 1 5BEAE06E
+P 4525 4525
+F 0 "E1" H 4653 4571 50  0000 L CNN
+F 1 "EdgeTraffic" H 4653 4480 50  0000 L CNN
+F 2 "Semaforo:5mm.All.01" H 4525 4525 50  0001 C CNN
+F 3 "" H 4525 4525 50  0001 C CNN
+	1    4525 4525
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 3000 3950 3000
+Wire Wire Line
+	3750 2500 3950 2500
+Wire Wire Line
+	3750 2500 3750 3000
+Connection ~ 3750 3000
+Wire Wire Line
+	3750 3500 3750 3000
+$Comp
+L conn:CONN_01X04 J1
+U 1 1 5BF2CEB8
+P 5400 3000
+F 0 "J1" H 5478 3041 50  0000 L CNN
+F 1 "CONN_01X04" H 5478 2950 50  0000 L CNN
+F 2 "Semaforo:PinHeader_1x04_P2.54mm_Vertical" H 5400 3000 50  0001 C CNN
+F 3 "" H 5400 3000 50  0001 C CNN
+	1    5400 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5200 3150 5100 3150
+Wire Wire Line
+	5100 3150 5100 3900
+Wire Wire Line
+	5100 3900 3750 3900
+Wire Wire Line
+	3750 3900 3750 3500
+Connection ~ 3750 3500
+Connection ~ 5100 3900
+Wire Wire Line
+	5000 3500 5000 3050
+Wire Wire Line
+	5000 3050 5200 3050
+Wire Wire Line
+	3750 3500 3950 3500
+Wire Wire Line
+	5000 3000 5000 2950
+Wire Wire Line
+	5000 2950 5200 2950
+Wire Wire Line
+	5000 2500 5000 2850
+Wire Wire Line
+	5000 2850 5200 2850
+$EndSCHEMATC
