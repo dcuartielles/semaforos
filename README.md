@@ -3,7 +3,7 @@
 
 Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
-<img src="https://github.com/dcuartielles/semaforos/blob/master/ejemplos/KiCad/img/01_Front_Big.svg" height="200" width="200">
+<img src="ejemplos/KiCad/img/Universal_01.svg" height="150" width="150">
 
 *PCB de semáforo por Gustavo Reynaga*
 
@@ -34,6 +34,8 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [Egokitek](https://github.com/Egokitek?tab=repositories)
 * Manuel Hidalgo, @leobotmanuel: semáforo RGB + ATmega32U4 (Arduino micro)
 * Manuel Hidalgo, @leobotmanuel: micro:bit
+* Moises Fernandez, @moifdz : ESP8266 con Thingerio [moisesfa](https://github.com/moisesfa?tab=repositories)
+* Andrés Sabas, @sabasacustico : Maker MakeCode con Arduino MKR1300 [sabas1080](https://github.com/sabas1080?tab=repositories)
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
 
