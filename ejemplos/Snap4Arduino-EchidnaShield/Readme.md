@@ -10,6 +10,8 @@ http://echidna.es/
 # Cómo y porqué de tu proyecto
 
 ## Software:
+
+<img src="https://github.com/Josepujol/semaforos/blob/master/ejemplos/Snap4Arduino-EchidnaShield/img/semaforoScript.png" height="300">
 <img src="https://github.com/Josepujol/semaforos/blob/master/ejemplos/Snap4Arduino-EchidnaShield/img/Imagen%20programa.png" height="300">
 
 ## Hardware:
