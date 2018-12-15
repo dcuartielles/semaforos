@@ -8,11 +8,13 @@ EchidnaShield es un proyecto Open Source dirigido a facilitar el aprendizaje de 
 http://echidna.es/
 
 # Cómo y porqué de tu proyecto
-## Hardware:
-<img src="https://github.com/Josepujol/semaforos/blob/master/ejemplos/Snap4Arduino-EchidnaShield/img/echidnashield.png" height="300">
+
 ## Software:
+<img src="https://github.com/Josepujol/semaforos/blob/master/ejemplos/Snap4Arduino-EchidnaShield/img/Imagen%20programa.png" height="300">
+
+## Hardware:
 <img src= https://github.com/Josepujol/semaforos/blob/master/ejemplos/Snap4Arduino-EchidnaShield/img/echidnashield.png height="300">
 
 # Sobre los autores
 Xabier Rosas, Jorge Lobo y José Pujol son los creadores de EchidnaShield
-El semáforo es la segunda de las diez actividades que de momento tenemos preparadas para trabajar con la Echidna
+El semáforo es la segunda de las diez actividades que tenemos planteadas para trabajar con la Echidna http://echidna.es/actividades/propuesta-didactica/
