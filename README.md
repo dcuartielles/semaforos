@@ -36,6 +36,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Manuel Hidalgo, @leobotmanuel: micro:bit
 * Moises Fernandez, @moifdz : ESP8266 con Thingerio [moisesfa](https://github.com/moisesfa?tab=repositories)
 * Andrés Sabas, @sabasacustico : Maker MakeCode con Arduino MKR1300 [sabas1080](https://github.com/sabas1080?tab=repositories)
+* José Fernando Picó Antolí @JoseFdo_  :FPGA ICE40 de lattice + IDE Icestudio
 * Jorge Ramos, @GioSunrider : Semáforo de Competicion
 * José Pujol, @Josepujol: Snap4Arduino & EchidnaShield
 
