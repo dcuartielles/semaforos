@@ -24,3 +24,5 @@ El circuito está hecho con [Icestudio](https://github.com/FPGAwars/icestudio)
 ¿Qué no tienes LEDs y quieres hacer un semáforo? No pasa nada, seguro que tienes a mano un **monitor** con entrada **VGA** :-)  Aprovechanco que ahora estoy aprendiendo de forma práctica cómo funciona la VGA, y cómo hacer controladores Hardware, he hecho este semáforo "Hola mundo"
 
 Lo que más me gusta de este proyecto es que me ha dado la opción de hacer un **multiplexor de colores** en Icestudio. En vez de utilizar números, he hecho bloques constantes con los colores, y así se muestra visualmente el funcionamiento
+
+En [esta wiki está la documentación del cableado](https://github.com/Obijuan/MonsterLED/wiki) que he usado para conectar la Alhambra a la VGA. En la [Colección Jedi](https://github.com/FPGAwars/Collection-Jedi/tree/master/examples/VGA) hay ejemplos de funcionamiento de la VGA y los bloques usados
