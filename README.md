@@ -22,7 +22,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * David Estévez, @DEFrobotics: Semáforo con robot industrial (por los loles)
 * Nuria y Jorfru, @nuria_pp: DGT
 * Gustavo Reynaga, @gsreynaga: [PCB personalizada con KiCad.](https://github.com/dcuartielles/semaforos/tree/master/ejemplos/KiCad)  [hulkco](https://github.com/hulkco?tab=repositories)
-* Iraisy Figueroa, @Iraisy: circuito textil con 555 
+* Iraisy Figueroa, @Iraisy: circuito textil con 555
 * Iraisy Figueroa, @Iraisy: S4A
 * Alex Corvis, @AlexCorvis84: Node-RED
 * Alex Corvis, @AlexCorvis84: MicroPython
@@ -39,6 +39,7 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * José Fernando Picó Antolí @JoseFdo_  :FPGA ICE40 de lattice + IDE Icestudio
 * Jorge Ramos, @GioSunrider : Semáforo de Competicion
 * José Pujol, @Josepujol: Snap4Arduino & EchidnaShield
+* Juan González-Gómez @Obijuan: Semáforo en pantalla VGA con FPGA
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
 
