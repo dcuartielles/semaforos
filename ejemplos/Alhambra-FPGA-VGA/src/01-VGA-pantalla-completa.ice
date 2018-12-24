@@ -223,8 +223,8 @@
             "readonly": true
           },
           "position": {
-            "x": -1088,
-            "y": 40
+            "x": -1400,
+            "y": -200
           },
           "size": {
             "width": 568,
@@ -637,6 +637,38 @@
           "size": {
             "width": 184,
             "height": 56
+          }
+        },
+        {
+          "id": "bbab2191-b311-4976-85e2-a6ed88fec382",
+          "type": "basic.info",
+          "data": {
+            "info": "En [este vídeo](https://www.youtube.com/watch?v=lzjR98Qk1H4) se puede ver el semáforo en acción (En la Alhambra I)\n\n[![Click to see the youtube video](http://img.youtube.com/vi/lzjR98Qk1H4/0.jpg)](https://www.youtube.com/watch?v=lzjR98Qk1H4)\n",
+            "readonly": true
+          },
+          "position": {
+            "x": -1392,
+            "y": 8
+          },
+          "size": {
+            "width": 888,
+            "height": 96
+          }
+        },
+        {
+          "id": "f398c579-bdf7-4a31-879a-d1379b8f263f",
+          "type": "basic.info",
+          "data": {
+            "info": "Imagen del proyecto en una Alhambra I  \n\n![](https://github.com/Obijuan/semaforos/raw/master/ejemplos/Alhambra-FPGA-VGA/img/FPGA-VGA-01.jpg)",
+            "readonly": true
+          },
+          "position": {
+            "x": -792,
+            "y": -104
+          },
+          "size": {
+            "width": 480,
+            "height": 128
           }
         }
       ],
