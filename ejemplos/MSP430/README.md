@@ -1,6 +1,6 @@
 # TI MSP420 (LaunchPad)
 
-Este es el ejemplo de cómo programar un semáforo sencillo utilizando un MSP430 de Texas Instruments.
+Este es un ejemplo de cómo programar un semáforo sencillo utilizando un MSP430 de Texas Instruments.
 
 
 ## Sobre el autor
