@@ -14,4 +14,4 @@ El MSP430 siempre me ha parecido un microcontrolador con una flexibilidad incre�
 
 ## Cómo y por qué de tu proyecto
 
-El semáforo es como el HolaMundo de la electrónica, así que cuando vi el hashtag #NoMásSemáforos en twitter no pude resistirme. Eso sí, hay que ir un poco más allá, porque no sólo de semáforos vive el maker. 
+El semáforo es como el HolaMundo de la electrónica, así que cuando vi el hashtag #retosemaforos en twitter no pude resistirme. Eso sí, hay que ir un poco más allá, porque no sólo de semáforos vive el maker. 
