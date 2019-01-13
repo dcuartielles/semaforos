@@ -1,6 +1,7 @@
 # Semáforo con Ultibo
 Este es el ejemplo de cómo hacer un semáforo usando ultibo y una raspberry PI. Una pantalla tft conectada por el puerto HDMI cambia de color 
 cada cierto tiempo a modo de semáforo.
+Video: https://www.youtube.com/watch?v=Npbrqf5PHgU
 
 # Sobre el autor
 Jorge Turiel (@TurielJorge, aka BlueIcaro en Github) es técnico en robótica industrial. Siempre me apasionó programar en 
