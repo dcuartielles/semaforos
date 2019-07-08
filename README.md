@@ -1,15 +1,15 @@
-# Aprendiendo electrónica utilizando semáforos
+# Aprendiendo electrónica y programación utilizando semáforos
 *(título propuesto por La Hora Maker, aka Cesar García)*
 
 Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 
-![](https://github.com/dcuartielles/semaforos/blob/master/img/semaforo_gustavo_small.jpg) 
+<img src="ejemplos/KiCad/img/Universal_01.svg" height="150" width="150">
 
-*PCB de semáforo for Gustavo Reynaga*
+*PCB de semáforo por Gustavo Reynaga*
 
 ## Lista de Ejemplos
 
-* javacasm, @javacasm: introducción (aquí forzando)
+* Jose Antonio Vacas, @javacasm: introducción (aquí forzando)
 * Julián Caro Linares, @jcarolinares: FPGA
 * David Cuartielles, @dcuartielles: Arduino
 * Raúl Lapeira Herrero, @raul_lapeira: Skypic
@@ -17,18 +17,33 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Jorge, @akirasan: ATtiny85 + Arduino como programador
 * Luis Miranda, @LuisMirandaAceb: 555s y componentes discretos
 * María L, @tecnoloxia: semáforo mecánico
+* María L, @tecnoloxia: Scratch
 * David Estévez, @DEFrobotics: RPi + WiringPi
+* David Estévez, @DEFrobotics: Semáforo con robot industrial (por los loles)
 * Nuria y Jorfru, @nuria_pp: DGT
-* Gustavo Reynaga, @gsreynaga: PCB personalizada
-* Iraisy Figueroa, @Iraisy: circuito textil con 555 
+* Gustavo Reynaga, @gsreynaga: [PCB personalizada con KiCad.](https://github.com/dcuartielles/semaforos/tree/master/ejemplos/KiCad)  [hulkco](https://github.com/hulkco?tab=repositories)
+* Iraisy Figueroa, @Iraisy: circuito textil con 555
 * Iraisy Figueroa, @Iraisy: S4A
-* Alex Corvis, @AlexCorvis84: Node Red
+* Alex Corvis, @AlexCorvis84: Node-RED
+* Alex Corvis, @AlexCorvis84: MicroPython
 * Jose Luis V., @Movilujo: ESP8266
 * Raul Tkcheriuk, @RaulTkcheriuk: PLC
 * Nerea Iriepa, @nereairiepa: semáforo con servos
-* Luis del Valle, @programarfacilc: MKR1010 + Blynk
+* Luis del Valle, @programarfacilc: MKR1000 + Blynk
+* Miguel Ángel Abellán, @migueabellan: mBlock
+* Victor Barahona, @VictorJBarahona: RaspberryPi3 + Thinger.io   [Egokitek](https://github.com/Egokitek?tab=repositories)
+* Manuel Hidalgo, @leobotmanuel: semáforo RGB + ATmega32U4 (Arduino micro)
+* Manuel Hidalgo, @leobotmanuel: micro:bit
+* Moises Fernandez, @moifdz : ESP8266 con Thingerio [moisesfa](https://github.com/moisesfa?tab=repositories)
+* Andrés Sabas, @sabasacustico : Maker MakeCode con Arduino MKR1300 [sabas1080](https://github.com/sabas1080?tab=repositories)
+* José Fernando Picó Antolí @JoseFdo_  :FPGA ICE40 de lattice + IDE Icestudio
+* Jorge Ramos, @GioSunrider : Semáforo de Competicion
+* José Pujol, @Josepujol: Snap4Arduino & EchidnaShield
+* Juan González-Gómez @Obijuan: Semáforo en pantalla VGA con FPGA
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
+
+[![los payasos de la tele](https://img.youtube.com/vi/OY8ffv_Urgk/0.jpg)](https://www.youtube.com/watch?v=OY8ffv_Urgk)
 
 ## Como contribuir
 

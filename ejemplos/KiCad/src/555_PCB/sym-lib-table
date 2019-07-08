@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name semaforo)(type Legacy)(uri ${KIPRJMOD}/semaforo.lib)(options "")(descr ""))
+  (lib (name 001-rescue)(type Legacy)(uri ${KIPRJMOD}/001-rescue.lib)(options "")(descr ""))
+  (lib (name 555_Semaforo)(type Legacy)(uri ${KIPRJMOD}/555_Semaforo.lib)(options "")(descr ""))
+)

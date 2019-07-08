@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Semaforo)(type KiCad)(uri ${KIPRJMOD}/Semaforo.pretty)(options "")(descr ""))
+  (lib (name WemosGus)(type KiCad)(uri ${KIPRJMOD}/WemosGus.pretty)(options "")(descr ""))
+  (lib (name HG_OshPark)(type KiCad)(uri /home/greynaga/Documentos/GitHub/HG_Badge/HG_Con_Switch_OshPark/HG_OshPark.pretty)(options "")(descr ""))
+)
