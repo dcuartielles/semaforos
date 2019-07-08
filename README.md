@@ -40,6 +40,8 @@ Proyecto colectivo de realizar semáforos en la mayor cantidad de modos posible.
 * Jorge Ramos, @GioSunrider : Semáforo de Competicion
 * José Pujol, @Josepujol: Snap4Arduino & EchidnaShield
 * Juan González-Gómez @Obijuan: Semáforo en pantalla VGA con FPGA
+* Jorge, @akirasan: Blender
+* Jorge, @akirasan: Free Form Circuit
 
 Haz un pull request y añade tu nombre, nick de twitter (si lo tienes), y el proyecto. Si escribes tu nick the github, te haremos contribuidor oficial para no tener que andar jugando con pull-requests después.
 
