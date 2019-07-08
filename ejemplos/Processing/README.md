@@ -4,11 +4,11 @@ Dos ejemplos de programación mediante Processing:
 
 - Sistema de partículas. Veremos múltiples semáforos cayendo en cascada.
 
-![](img/semaforos sistema de particulas.png)
+![](img/semaforos%20sistema%20de%20particulas.png)
 
 - Semáforo interactivo. Se ilumina la luz de cada color cuando pasamos el ratón por encima.
 
-![](img/semaforo interactivo.png)
+![](img/semaforo%20interactivo.png)
 
 ## Sobre el autor
 
