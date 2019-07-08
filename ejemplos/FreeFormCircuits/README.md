@@ -40,9 +40,10 @@ A nivel personal soy miembro (me tienen puesto de presidente) de una comunidad d
 ## Porqué esta plataforma
 
 Motivado por los grandes ejemplos de otros creadores de estas estructuras:
-Jiří Praus: https://twitter.com/jipraus
-Mohit Bhoite: https://twitter.com/MohitBhoite
-Eirik Brandal: https://www.instagram.com/eirikbrandal/?hl=es
+
+- Jiří Praus: https://twitter.com/jipraus
+- Mohit Bhoite: https://twitter.com/MohitBhoite
+- Eirik Brandal: https://www.instagram.com/eirikbrandal/?hl=es
 
 ## Cómo y porqué de tu proyecto
 
