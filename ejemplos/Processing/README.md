@@ -8,7 +8,7 @@ Dos ejemplos de programación mediante Processing:
 
 - Semáforo interactivo. Se ilumina la luz de cada color cuando pasamos el ratón por encima.
 
-![](img/img/semaforo%20interactivo.png)
+![](img/semaforo%20interactivo.png)
 
 ## Sobre el autor
 
