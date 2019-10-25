@@ -1,0 +1,9 @@
+Id,Identificador,Empaquetado,Cantidad,Identificación,Suministrador y ref
+2,SW1,TL3342 SW_SPST_TL3342,1,SW_Push,
+3,BT1,TBH-CR2032-M04 BatteryHolder_Keystone_3034_1x20mm,1,Battery_Cell,
+4,C2,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,47uF,
+5,C1,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,100nF,
+6,U1,ATTINY85-20SU SOIJ-8_5.3x5.3mm_P1.27mm,1,ATTINY85-20,
+7,SW2,MSK-12C02 1P2T SWITCH_SPST_SMD_A,1,SW_SPST,
+8,"D1,D2,D3",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm Black,3,WS2812B,
+10,R1,R_0805_2012Metric_Pad1.29x1.40mm_HandSolder,1,10k,
