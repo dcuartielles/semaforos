@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ATTINY85-20PU
+#
+DEF ATTINY85-20PU U 0 40 Y Y 1 L N
+F0 "U" -301 451 50 H V L BNN
+F1 "ATTINY85-20PU" -298 -551 50 H V L BNN
+F2 "DIP762W46P254L927H533Q8B" 0 0 50 H I L BNN
+F3 "1.31 USD" 0 0 50 H I L BNN
+F4 "ATTINY85-20PU" 0 0 50 H I L BNN
+F5 "Good" 0 0 50 H I L BNN
+F6 "ATtiny Series 20 MHz 8 KB Flash 512 B SRAM 8-Bit Microcontroller - DIP-8" 0 0 50 H I L BNN
+F7 "Microchip" 0 0 50 H I L BNN
+F8 "DIP-8 Microchip" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 300 450 300 -450 N
+P 2 0 0 10 300 -450 -300 -450 N
+P 2 0 0 10 -300 -450 -300 450 N
+P 2 0 0 10 -300 450 300 450 N
+X VCC 8 500 350 200 L 40 40 0 0 W 
+X PB3 2 -500 -50 200 R 40 40 0 0 B 
+X PB4 3 -500 -150 200 R 40 40 0 0 B 
+X PB5 1 -500 -250 200 R 40 40 0 0 B 
+X GND 4 500 -350 200 L 40 40 0 0 W 
+X PB0 5 -500 250 200 R 40 40 0 0 B 
+X PB1 6 -500 150 200 R 40 40 0 0 B 
+X PB2 7 -500 50 200 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
